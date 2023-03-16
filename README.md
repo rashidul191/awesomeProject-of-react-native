@@ -1,0 +1,1 @@
+# awesomeProject-of-react-native
